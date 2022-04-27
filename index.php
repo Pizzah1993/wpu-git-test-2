@@ -9,5 +9,9 @@
 <body>
     <h1>Hello pizzah</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere ducimus nihil modi porro architecto quae laborum doloremque facilis rem! Aspernatur fuga expedita enim a labore neque praesentium nobis modi iusto.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
